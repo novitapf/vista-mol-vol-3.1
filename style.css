@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: white;
+}
+
+#viewer {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  background: white;
+  border-radius: 15px;
+}
+
+#info {
+  margin-top: 20px;
+  font-size: 18px;
+}
